@@ -1,6 +1,6 @@
 # RAG-based MCQ Generator
 
-This project uses the [RAG](https://github.com/facebookresearch/RAG) (Retrieval-Augmented Generation) model to generate multiple-choice questions (MCQs) based on a given topic and context.
+This project uses the RAG model to generate multiple-choice questions (MCQs) based on a given topic and context.
 
 ## Installation
 
